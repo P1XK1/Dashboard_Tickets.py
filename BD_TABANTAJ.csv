@@ -1,0 +1,33 @@
+id,title,request,position,area,count-area,responsible,priority,status,Fecha_de_creacion,ID CATEGORIA,CATEGORIA,COUNT-CATEGORIA,ID LABEL,LABEL,link
+1,test1,Mauricio D,Operativo,Innovacion y desarrollo,1,Innovacion y desarrollo,normal,process,22/05/2023,2,Error,1,1,Katbol,http://localhost:5173/ticketCreate
+2,test2,Mauricio D,Operativo,Innovacion y desarrollo,1,Innovacion y desarrollo,normal,closed,22/05/2023,4,Desarrollo,1,1,Katbol,http://localhost:5173/ticketCreate
+3,test3,Mauricio D,Operativo,Innovacion y desarrollo,1,Innovacion y desarrollo,high,stop,22/05/2023,2,Error,1,1,Katbol,http://localhost:5173/ticketCreate
+4,test,Mauricio D,Operativo,Innovacion y desarrollo,1,Innovacion y desarrollo,normal,open,22/05/2023,5,Mejora,1,2,Tabantaj,http://localhost:5173/ticketCreate
+5,test4,Mauricio D,Operativo,Cumplimiento y Mejora Continua,1,Cumplimiento y Mejora Continua,normal,process,22/05/2023,3,Tarea,1,1,Katbol,http://localhost:5173/ticketCreate
+6,test5,Mauricio D,Operativo,Cumplimiento y Mejora Continua,1,Cumplimiento y Mejora Continua,high,closed,27/05/2023,6,Nueva Funcionalidad,1,1,Katbol,http://localhost:5173/ticketCreate
+7,test6,Mauricio D,Operativo,Cumplimiento y Mejora Continua,1,Cumplimiento y Mejora Continua,high,stop,04/06/2023,1,Incidente,1,2,Tabantaj,http://localhost:5173/ticketCreate
+8,test,Mauricio D,Operativo,Cumplimiento y Mejora Continua,1,Cumplimiento y Mejora Continua,high,open,04/06/2023,2,Error,1,1,Katbol,http://localhost:5173/ticketCreate
+9,test7,Mauricio D,Operativo,Finanzas y Administraci�n,1,Finanzas y Administraci�n,normal,process,04/06/2023,4,Desarrollo,1,2,Tabantaj,http://localhost:5173/ticketCreate
+10,test8,Mauricio D,Operativo,Finanzas y Administraci�n,1,Finanzas y Administraci�n,normal,closed,04/06/2023,2,Error,1,1,Katbol,http://localhost:5173/ticketCreate
+11,test9,Mauricio D,Operativo,Contabilidad,1,Contabilidad,high,stop,04/06/2023,5,Mejora,1,1,Katbol,http://localhost:5173/ticketCreate
+12,test,Mauricio D,Operativo,Contabilidad,1,Contabilidad,normal,open,11/06/2023,3,Tarea,1,1,Katbol,http://localhost:5173/ticketCreate
+13,test10,Mauricio D,Operativo,Comercial,1,Comercial,normal,process,11/06/2023,6,Nueva Funcionalidad,1,1,Katbol,http://localhost:5173/ticketCreate
+14,test11,Mauricio D,Operativo,Comercial,1,Comercial,high,closed,11/06/2023,1,Incidente,1,2,Tabantaj,http://localhost:5173/ticketCreate
+15,test12,Mauricio D,Operativo,Direcci�n General,1,Direcci�n General,high,stop,11/06/2023,2,Error,1,1,Katbol,http://localhost:5173/ticketCreate
+16,test,Mauricio D,Operativo,Direcci�n General,1,Direcci�n General,high,open,11/06/2023,4,Desarrollo,1,1,Katbol,http://localhost:5173/ticketCreate
+17,test13,Mauricio D,Operativo,Ciberinteligencia,1,Ciberinteligencia,normal,process,11/06/2023,2,Error,1,2,Tabantaj,http://localhost:5173/ticketCreate
+18,test14,Mauricio D,Operativo,Ciberinteligencia,1,Ciberinteligencia,normal,closed,08/06/2023,5,Mejora,1,1,Katbol,http://localhost:5173/ticketCreate
+19,test15,Mauricio D,Operativo,Consultor�a Estrat�gica,1,Consultor�a Estrat�gica,high,stop,15/06/2023,3,Tarea,1,2,Tabantaj,http://localhost:5173/ticketCreate
+20,test,Mauricio D,Operativo,Consultor�a Estrat�gica,1,Consultor�a Estrat�gica,normal,open,15/06/2023,6,Nueva Funcionalidad,1,1,Katbol,http://localhost:5173/ticketCreate
+21,test16,Mauricio D,Operativo,Operaciones NOC/SOC,1,Operaciones NOC/SOC,normal,process,15/06/2023,1,Incidente,1,1,Katbol,http://localhost:5173/ticketCreate
+22,test17,Mauricio D,Operativo,Operaciones NOC/SOC,1,Operaciones NOC/SOC,high,closed,15/06/2023,2,Error,1,1,Katbol,http://localhost:5173/ticketCreate
+23,test18,Mauricio D,Operativo,Gesti�n de Talento,1,Gesti�n de Talento,high,stop,15/06/2023,4,Desarrollo,1,1,Katbol,http://localhost:5173/ticketCreate
+24,test,Mauricio D,Operativo,Gesti�n de Talento,1,Gesti�n de Talento,high,open,20/06/2023,2,Error,1,2,Tabantaj,http://localhost:5173/ticketCreate
+25,test19,Mauricio D,Operativo,Marketing,1,Marketing,normal,process,20/06/2023,5,Mejora,1,1,Katbol,http://localhost:5173/ticketCreate
+26,test20,Mauricio D,Operativo,Marketing,1,Marketing,normal,closed,20/06/2023,3,Tarea,1,1,Katbol,http://localhost:5173/ticketCreate
+27,test21,Mauricio D,Operativo,Entrega de Servicios,1,Entrega de Servicios,high,stop,25/06/2023,6,Nueva Funcionalidad,1,2,Tabantaj,http://localhost:5173/ticketCreate
+28,test,Mauricio D,Operativo,Entrega de Servicios,1,Entrega de Servicios,normal,open,25/06/2023,1,Incidente,1,1,Katbol,http://localhost:5173/ticketCreate
+29,test22,Mauricio D,Operativo,Alianzas Estrat�gicas,1,Alianzas Estrat�gicas,normal,process,25/06/2023,2,Error,1,2,Tabantaj,http://localhost:5173/ticketCreate
+30,test23,Mauricio D,Operativo,Alianzas Estrat�gicas,1,Alianzas Estrat�gicas,high,closed,25/06/2023,4,Desarrollo,1,1,Katbol,http://localhost:5173/ticketCreate
+31,test24,Mauricio D,Operativo,Alianzas Estrat�gicas,1,Alianzas Estrat�gicas,high,closed,26/06/2023,4,Desarrollo,1,1,Katbol,http://localhost:5173/ticketCreate
+32,test24,Mauricio D,Operativo,Alianzas Estrat�gicas,1,Alianzas Estrat�gicas,high,closed,27/06/2023,4,Desarrollo,1,1,Katbol,http://localhost:5173/ticketCreate
